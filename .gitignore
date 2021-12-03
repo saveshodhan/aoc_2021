@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # custom settings
-input_*_test.txt
+input_*_my.txt
