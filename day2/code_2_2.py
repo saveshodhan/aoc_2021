@@ -7,6 +7,12 @@ FORWARD = "forward"
 DOWN = "down"
 UP = "up"
 
+
+def parse_input(input_file):
+    for each in open(input_file):
+        yield each.strip()
+
+
 def main(data_gen):
     forward = 0
     down = 0
@@ -28,5 +34,5 @@ def main(data_gen):
 
 if __name__ == "__main__":
 
-    data_gen = open(sys.argv[1])
+    data_gen = parse_input(sys.argv[1])
     print(main(data_gen))
