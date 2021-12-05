@@ -1,4 +1,4 @@
-# AOC 2021 - day 2 #
+# AOC 2021 - day 3 #
 
 import sys
 from collections import defaultdict, Counter
