@@ -2,7 +2,7 @@
 
 import sys
 
-from common import get_answer, parse_input
+from .common_4 import get_answer, parse_input
 
 def main(data_gen):
     return get_answer(data_gen, last_win=False)
