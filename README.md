@@ -2,6 +2,8 @@
 
 Trying hard to do it with built-in packages 🤞
 
+[![tests](https://github.com/saveshodhan/aoc_2021/actions/workflows/github-actions-pytest.yml/badge.svg)](https://github.com/saveshodhan/aoc_2021/actions/workflows/github-actions-pytest.yml)
+
 ## Code structure
 > This excludes the common files like `.gitignore`, `README`, etc.
 
