@@ -10,6 +10,7 @@ from day7 import code_7_1, code_7_2
 from day8 import code_8_1, code_8_2
 from day9 import code_9_1, code_9_2
 from day10 import code_10_1, code_10_2
+from day11 import code_11_1, code_11_2
 
 
 TEST_DATA = [
@@ -34,6 +35,8 @@ TEST_DATA = [
     [code_9_2, 9, 2, 1134, "code_9_2"],
     [code_10_1, 10, 1, 26397, "code_10_1"],
     [code_10_2, 10, 2, 288957, "code_10_2"],
+    [code_11_1, 11, 1, 1656, "code_11_1"],
+    [code_11_2, 11, 2, 195, "code_11_2"],
 ]
 
 
