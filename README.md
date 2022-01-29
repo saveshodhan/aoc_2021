@@ -20,11 +20,11 @@ Trying hard to do it with built-in packages 🤞
 └── tests
     ├── conftest.py
     ├── __init__.py
-    └── tests_days.py
+    └── test_days.py
 ```
 
 ## Run tests
-`pytest tests/tests_days.py -vvv`
+`pytest tests/test_days.py -vvv`
 
 ## Run code for each day
 `python -m day5.code_5_1 day5/input_5.txt`
